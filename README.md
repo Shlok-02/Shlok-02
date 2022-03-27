@@ -1,4 +1,4 @@
-![Screenshot](Shlok_Banner.gif)
+![Screenshot](SHLOK GANGATIRKAR.png)
 
 <h3>Glad to see you here!!🙋‍♂️</h3>
 
