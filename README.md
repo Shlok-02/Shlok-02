@@ -14,6 +14,6 @@
 
 <a href="https://www.linkedin.com/in/shlok-gangatirkar-235a131a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/Shlok-02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 
-![Most Used Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-02&layout=compact&theme=radical&langs_count=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-02&layout=compact&theme=radical&langs_count=10)
 
 ![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shlok-02&theme=midnight-purple&show_icons=true)
