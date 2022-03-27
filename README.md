@@ -12,7 +12,8 @@
 <img alt="Express" src="https://img.shields.io/badge/-Express-black"/>
 <h4>Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/shlok-gangatirkar-235a131a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/Shlok-02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/shlok-gangatirkar-235a131a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/Shlok-02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlok.gangatirkar02@gmail.com)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-02&layout=compact&theme=radical&langs_count=10)
 
