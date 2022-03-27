@@ -22,7 +22,8 @@
 
 <h4>Languages & Tools</h4>
 
-<img height="50px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></img>
+[![image](https://https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)]
+[![image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)]
 <img  height="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
 <img height="50px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> </img>
 <img height="50px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></img>
