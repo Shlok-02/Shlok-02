@@ -1,4 +1,4 @@
-![Screenshot](SHLOK GANGATIRKAR.png)
+![Screenshot](cover.png)
 
 <h3>Glad to see you here!!🙋‍♂️</h3>
 
